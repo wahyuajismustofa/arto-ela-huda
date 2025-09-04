@@ -1,6 +1,7 @@
 body.ashilla {
     /* Heading Family */
     --heading-family: "Crimson Text", serif;
+    --heading-family-2: "Ruthie", cursive;
     --heading-style: normal;
     --heading-weight: 400;
     --heading-size: calc(10vw + 0.96px);
@@ -210,7 +211,7 @@ section.top-cover .inner .details {
     z-index: 2;
 }
 section.top-cover .inner .details h1 {
-    font-family: var(--heading-family);
+    font-family: var(--heading-family-2);
     font-size: calc(var(--heading-size) + var(--fs-extra-6));
     font-weight: normal;
     color: var(--text-tertiary);
@@ -425,7 +426,7 @@ section.cover .inner .foot h1 {
     font-size: calc(var(--heading-size) + 5px);
     line-height: 1.2;
     font-weight: normal;
-    font-family: var(--heading-family);
+    font-family: var(--heading-family-2);
     color: var(--text-secondary);
 }
 section.cover .inner .foot p {
@@ -768,7 +769,7 @@ section.couple .inner .body .details {
     padding-top: 0.25em;
 }
 section.couple .inner .body .details h2 {
-    font-family: var(--heading-family);
+    font-family: var(--heading-family-2);
     font-size: calc(var(--heading-size) - var(--fs-extra-2));
     color: var(--text-primary);
     margin-bottom: 0.25em;
@@ -2391,7 +2392,7 @@ section.footnote .inner .details {
     text-align: center;
 }
 section.footnote .inner .details h1 {
-    font-family: var(--heading-family);
+    font-family: var(--heading-family-2);
     font-size: calc(var(--heading-size) + 5px);
     font-weight: normal;
     margin: 0.25em auto;
