@@ -1,1 +1,1 @@
-{"_detail":{"fileName":"undangan","sha":"822e257cc1a1f3112d56168bdeeec3b9f57cc2a2","lastId_tamu":2,"lastUpdate":"2025-09-04T05:58:12.879Z"},"tamu":[{"id":1,"kehadiran":"hadir","acara":["","Resepsi"],"nama":"Arto Printing"},{"id":2,"kehadiran":"Tidak Hadir","nama":"Arto Printing","acara":[]}]}
+{"_detail":{"fileName":"undangan","sha":"822e257cc1a1f3112d56168bdeeec3b9f57cc2a2","lastId_tamu":1,"lastUpdate":"2025-09-04T05:58:12.879Z"},"tamu":[{"id":1,"kehadiran":"Tidak Hadir","nama":"Arto Printing","acara":[]}]}
